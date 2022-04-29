@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#txt1{
+    font-size: 8px;
+    color: blue;
+}
+
+#txt2{
+    color: red;
+}
+
+#txt3{
+    font-size: 44px;
+    color: blue;
+}
+
+#txt4{
+    color: red;
+}

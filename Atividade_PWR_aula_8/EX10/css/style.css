@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#xpto {
+    background: url("../imgs/img.png") no-repeat;
+    width: 450px;
+    height: 150px;
+    position: static;
+    /* position: relative; */
+    /* position: absolute; */
+    /* position: fixed; */
+    /* position: sticky; */
+    left: 400px;
+    top: 100px;
+}

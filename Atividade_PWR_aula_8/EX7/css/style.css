@@ -1,0 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blue_text{
+    color: blue;
+}
+
+.dark_green_text{
+    color: rgb(2, 51, 2);
+}

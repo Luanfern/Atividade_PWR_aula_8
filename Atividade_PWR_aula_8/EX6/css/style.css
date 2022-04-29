@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.red_bold{
+    color: red;
+}
+
+.blue_text{
+    color: blue;
+}
+
+.dark_green_text{
+    color: rgb(2, 51, 2);
+}

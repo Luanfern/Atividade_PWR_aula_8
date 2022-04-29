@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.green_text{
+    color: green;
+}
+
+.red_text{
+    color: red;
+}
+
+.c{
+    text-align: center;
+}
+
+table#t1 a img{
+    border: 8px solid blue;
+}

@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#txt1{
+    color: green;
+    text-align: center;
+}
+
+#txt2{
+    color: green;
+    font-weight: bold;
+}
+
+#txt3{
+    color: red;
+    text-align: right;
+}
